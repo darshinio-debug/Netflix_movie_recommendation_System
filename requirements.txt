@@ -1,0 +1,8 @@
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Scikit-Surprise
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
